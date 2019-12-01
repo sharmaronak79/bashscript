@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a="chetan"
-b="bhagat"
+a="Chetan"
+b="Bhagat"
 
 echo "$a $b"
 c="${a} ${b}"
