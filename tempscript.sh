@@ -1,10 +1,10 @@
 #!/bin/bash
 
-first_arg=$1
+fist_arg=$1
 second_arg=$2
 third_arg=$3
 
-echo $first_arg
+echo $fist_arg
 echo $second_arg
 echo $third_arg
 
