@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -p "enter username: " name
-if [ ( $name == "ronak_" ) ]
+if [ ( $name == "r0nak_" ) ]
 then
 echo "name is valid"
 else
