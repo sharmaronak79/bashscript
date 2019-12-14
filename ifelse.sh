@@ -4,7 +4,7 @@ read -p "Enter your marks: " marks
  
 if [ $marks -ge 80 ]
 then
-    echo "Very Good"
+    echo "Very_Good"
  
 elif [ $marks -ge 50 ]
 then
