@@ -5,7 +5,7 @@ numargs=$#
 if [ $numargs -lt 1 ]
 then
      echo #new line separator
-     echo "Search string not_specified"
+     echo "Search string_not_specified"
      exit
 fi
 
