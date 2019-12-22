@@ -8,7 +8,7 @@ if [ -e "$FILE" ]
 then
 echo "File exist"
 else
-echo "File is not exist"
+echo "File is_not exist"
 fi
 
 WORD_CONT=$(grep -i -o $WORD $FILE | wc -l)
