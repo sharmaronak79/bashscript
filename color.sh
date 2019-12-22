@@ -11,7 +11,7 @@
 echo -e "\033[01;04;31;42mHello friend \033[0m"
 
 
-echo -e "\033[04;31;42m text is without Bold \033[0m"
+echo -e "\033[04;31;42m text is without_Bold \033[0m"
 
 
 echo -e "\033[01;31;42m text with out underline_ \033[0m"
