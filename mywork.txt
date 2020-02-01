@@ -1,4 +1,4 @@
 today at 10th of september i practised of ifelse bash scripting..
 even some scripts are ok but still there is error in running it, may be the version or shell problem b
 same script is runninng well in other shell than bash or nano
-
+Mmm
