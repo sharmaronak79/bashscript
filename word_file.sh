@@ -15,7 +15,7 @@ WORD_CONT=$(grep -i -o $WORD $FILE | wc -l)
 
 if [ "$WORD_CONT" -ne "$NOWORD" ]
 then
-echo "WORD FOUND "
+echo "WORD_fOUND "
 echo "The word "$WORD" appeard ="
 echo "$WORD_CONT"
 else
