@@ -5,6 +5,6 @@ if [ ( $name == "r0nak_" ) ]
 then
 echo "name is valid"
 else
-echo " name is not valid "
+echo " name is_not valid "
 fi
 
